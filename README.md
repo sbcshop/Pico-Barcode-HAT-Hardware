@@ -8,9 +8,9 @@ Barcode HAT for Pico is a robust and compact barcode scanner board that consists
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/IoTPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* [**/Design Data**](https://github.com/sbcshop/IoTPi-Hardware/tree/main/Design_Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/IoTPi-Hardware/tree/main/Mechanical_Data) - This directory contains 3D and STEP files
+* [**/Documents**](https://github.com/sbcshop/Pico-Barcode-HAT-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/Pico-Barcode-HAT-Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/Pico-Barcode-HAT-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
