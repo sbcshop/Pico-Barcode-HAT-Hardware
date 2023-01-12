@@ -1,5 +1,7 @@
 # Pico-Barcode-HAT-Hardware
 
+<img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/Pico_Barcode_HAT.png?v=1665148529" />
+
 Barcode HAT for Pico is a robust and compact barcode scanner board that consists of DE2120 scanner module, buzzer, 1.14” LCD screen, micro-USB port. It is designed to scan 20 different barcode symbologies in the segment of both 1D and 2D symbology like barcodes and QR codes
 
 
@@ -22,14 +24,14 @@ Barcode HAT for Pico is a robust and compact barcode scanner board that consists
 
 ## Related Products
 
-* [GatePi 4Ch](https://shop.sb-components.co.uk/products/gatepi?variant=39756684066899)
+* [Zero Barcode HAT](https://shop.sb-components.co.uk/products/zero-barcode-hat?_pos=3&_sid=f80a0123d&_ss=r)
 
- ![GatePi 4Ch](https://cdn.shopify.com/s/files/1/1217/2104/products/GatePi-4channelRelayBoardwithLoRaModulebasedonRP2040.jpg?v=1647335212&width=400)
+ ![Zero Barcode HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/4_75f6c562-c6a1-4eb2-9fb0-686b64f20010.jpg?v=1669181323&width=400)
 
-* [GatePi 8Ch](https://shop.sb-components.co.uk/products/getpi-8?variant=40437555331155)
+* [Barcode Breakout](https://shop.sb-components.co.uk/products/barcode-breakout?_pos=2&_sid=f80a0123d&_ss=r)
 
- ![GatePi 8Ch](https://cdn.shopify.com/s/files/1/1217/2104/products/1_c6fcda60-17bc-4321-bfbe-062457cc29c8.jpg?v=1669638828&width=400)
-
+ ![Barcode Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/3_6c5d4598-fe42-4a18-8d8a-ab235e78c375.jpg?v=1665562539&width=400)
+ 
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
